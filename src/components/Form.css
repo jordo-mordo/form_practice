@@ -1,0 +1,7 @@
+#infoForm {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: none;
+  align-items: flex-start;
+  margin: 2em 0em;
+}
